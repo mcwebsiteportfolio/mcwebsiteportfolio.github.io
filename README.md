@@ -6,3 +6,5 @@
 ![Sénégazelles](https://user-images.githubusercontent.com/82095190/113884477-4b220300-97bf-11eb-95e4-68594d29eeb5.png)
 ![IMG_5216 2571](https://user-images.githubusercontent.com/82095190/113884495-4e1cf380-97bf-11eb-84d2-e4b1f1bc17d1.jpg)
 ![Dessin-d'art-graphique-fond-bleu-motif-or-1000x660C](https://user-images.githubusercontent.com/82095190/113889058-2a5bac80-97c3-11eb-9673-2f4b21405942.jpg)
+![IMG_1349](https://user-images.githubusercontent.com/82095190/113889131-38113200-97c3-11eb-82e6-97843d78157a.JPG)
+![IMG_1376](https://user-images.githubusercontent.com/82095190/113889191-452e2100-97c3-11eb-8a14-77d7647f58cf.JPG)
