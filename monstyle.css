@@ -1,0 +1,485 @@
+/*toutes les pages*/
+
+body {
+    font-family: "Century Gothic", "Century Schoolbook", Arial;
+    color: black;
+    background-image: url("file:///C:/Users/33783/Desktop/site%20web/Dessin-d'art-graphique-fond-bleu-motif-or-1000x660C.jpg");
+    background-attachment: fixed;
+     }
+
+#bloc_page {
+    width: 100%;
+    margin: auto }
+
+
+.MC {
+    font-family: "Century Gothic", sans-sérif;
+    font-size: 1em; }
+
+section {
+    background-color: white; }
+
+
+header { 
+    display: flex;
+    align-items: flex-end;
+    margin-left: -2%;
+    margin-top: -2%;
+    margin-right: -2%;
+    margin-bottom: 10%;
+    border-bottom: 0.1em solid white;
+    background-color: white;
+    background-clip: border-box;
+    opacity: 0.9;}
+
+#titre_principal {
+    display: flex;
+    flex-direction: column; }
+
+#logo {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline; }
+
+#logo img {
+    width: 4em;
+    height: 4em;
+    margin: 10% 0 -30% 10%; }
+
+#logo ul {
+    list-style-type: none;
+    margin: 0% 0% 15% -36%; }
+
+#logo a {
+        text-decoration: none; }
+
+header h1 {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    margin: 0 0 0 10%; }
+
+header h2 {
+    font-family: "Harrington", serif;
+    font-size: 0.45em;
+    margin-top: 0%;
+    font-weight: normal;
+    color: black; }
+
+
+
+  nav ul {
+    position: absolute;
+    right: 2%;
+    font-family: "Arial";
+    list-style-type: none;
+    margin: 0;
+    padding: 0;}
+
+  nav li {
+    display: float;
+    float: left; }
+
+  nav a {
+    display: inline-block;
+    font-size: 0.93em;
+    color: black;
+    background-color: white;
+    opacity: 0.9;
+    text-align: center;
+    padding: 0.5em 1em;
+    text-decoration: none; }
+
+nav a:hover {
+    background-color: tan;   
+    text-decoration: none; }
+  
+nav a:active {
+    font-family: "Century Gothic", sans-serif;
+    background-color: grey;
+    color: white; }
+
+
+
+/*Page1*/
+
+#paragraph-left {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 2%;  }
+
+#paragraph-left h1 {
+    font-family: "Harrington", "Lucida Calligraphy", "Lucida Handwriting", sans-serif;
+    font-weight: normal;
+    text-transform: uppercase; }
+
+section {
+    display: flex;
+    margin-bottom: 20%;
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    opacity: 0.87; }
+
+
+
+<<Page2>>
+
+
+/* Center website */
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 2%;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 40%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 3%;
+}
+
+.content7 {
+  background-color: white;
+  padding: 1%;
+  width: 900px;
+}
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Position the image container (needed to position the left and right arrows) */
+.container1 {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+  background-color: white;
+  padding: 1%;
+  width: 800px;
+
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0px;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+
+
+}
+
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column6 {
+  float: left;
+  width: 15%;
+  padding: 1%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+
+
+
+
+<<DESSIN>>
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 20px;
+  font-family: "Century Gothic";
+}
+
+/* Center website */
+.main1 {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row1 {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row1,
+.row1 > .column1 {
+  padding: 2%;
+}
+
+/* Create four equal columns that floats next to each other */
+.column1 {
+  float: left;
+  width: 45%;
+}
+
+/* Clear floats after rows */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content1 {
+  background-color: white;
+  padding: 3%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column1 {
+    width: 100%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column1 {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*page4/*
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f1f1f1;
+  padding: 2%;
+  font-family: Arial;
+}
+
+/* Center website */
+.main2 {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 50px;
+  word-break: break-all;
+}
+
+.row2 {
+  margin: 1% -10% 0% -10%;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row2,
+.row2 > .column2 {
+  padding: 2%;
+}
+
+/* Create four equal columns that floats next to each other */
+.column2 {
+  float: left;
+  width: 45%;
+}
+
+/* Clear floats after rows */
+.row2:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content2 {
+  background-color: white;
+  padding: 3%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 900px) {
+  .column2 {
+    width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column2 {
+    width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+footer {
+    font-family: "Century Gothic", sans-serif;
+    background-color: white; no-repeat top center;
+    opacity: 0.85;
+    bottom: 1%;
+    left: 2%;
+    right: 2%; }
+
+
+
+
+footer p, footer ul {
+    font-size: 0.8em;
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 2%; }
+
+
+footer ul {
+    list-style-image: "Century Gothic", "Century Schoolbook", Arial, sans-serif; }
+
+footer a {
+    text-decoration: none;
+    color: black; }
+
+footer h1 {
+    font-size: 1.1em; }
+
+
+footer a:hover {
+    color: purple;
+    text-decoration: none; }
+
+

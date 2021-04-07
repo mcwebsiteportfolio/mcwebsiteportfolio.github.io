@@ -1,0 +1,85 @@
+body {
+    font-family: "Century Gothic", "Century Schoolbook", Arial;
+    color: black;
+    background-image: url("file:///C:/Users/33783/Desktop/site%20web/Bienvenu%20!!.png");
+    background-size: 100%;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-attachment: fixed; }
+
+#bloc_page {
+    width: 100%;
+    margin: auto;
+    display; flex; }
+
+
+
+ #paragraph-left {
+    margin-top: 0%;
+    margin-bottom: 1%;
+    margin-left: 0%;
+    margin-right: 15%;
+    position: fixed;
+    font-size: 130%;
+     }
+
+#paragraph-left h1 {
+    font-family: "Harrington", "Lucida Calligraphy", "Lucida Handwriting", sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 170%;
+    clear:both; }
+
+
+
+ .button {
+  border-radius: 4em;
+  background-color: #B18904;
+  border:noe ;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1em;
+  font-family: "Century Gothic";
+  padding: 0.5em;
+  width: 7em;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  position: absolute;
+  right: 45%;
+  top: 75%;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+section {
+    display: flex;
+    margin-bottom: 20%;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%; }
