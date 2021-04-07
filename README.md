@@ -8,3 +8,6 @@
 ![Dessin-d'art-graphique-fond-bleu-motif-or-1000x660C](https://user-images.githubusercontent.com/82095190/113889058-2a5bac80-97c3-11eb-9673-2f4b21405942.jpg)
 ![IMG_1349](https://user-images.githubusercontent.com/82095190/113889131-38113200-97c3-11eb-82e6-97843d78157a.JPG)
 ![IMG_1376](https://user-images.githubusercontent.com/82095190/113889191-452e2100-97c3-11eb-8a14-77d7647f58cf.JPG)
+![IMG_4985](https://user-images.githubusercontent.com/82095190/113890243-43b12880-97c4-11eb-9a11-852fbc7af0e7.JPG)
+![IMG_4988](https://user-images.githubusercontent.com/82095190/113890263-4875dc80-97c4-11eb-8347-6c7297e40bff.png)
+![IMG_1374](https://user-images.githubusercontent.com/82095190/113890366-62172400-97c4-11eb-8106-aa89ca04bf27.JPG)
